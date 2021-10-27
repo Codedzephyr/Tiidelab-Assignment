@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  display: grid;
+  height: 50vh;
+  place-items: center;
+}
+
+div.login-container{
+width: 60%;
+display: grid;
+place-items: center;
+background-color: aqua;
+}
+
+label{
+  display: block;
+}
+
+input{
+  display: block;
+}
